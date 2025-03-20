@@ -27,7 +27,46 @@ Open source projects 🚀✨
 | [ujson5](https://github.com/austinyu/ujson5) | ![GitHub Repo stars](https://img.shields.io/github/stars/austinyu/ujson5) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/ujson5) |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-379.7%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 107.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 66 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                119 commits         ████████░░░░░░░░░░░░░░░░░   30.13 % 
+🌆 Daytime                185 commits         ████████████░░░░░░░░░░░░░   46.84 % 
+🌃 Evening                74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 20/03/2025 06:15:08 UTC
 <!--END_SECTION:waka-->
 
 
