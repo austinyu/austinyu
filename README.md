@@ -27,19 +27,19 @@ Open source projects 🚀✨
 | [ujson5](https://github.com/austinyu/ujson5) | ![GitHub Repo stars](https://img.shields.io/github/stars/austinyu/ujson5) | ![PyPI - Downloads](https://img.shields.io/pypi/dm/ujson5) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-367.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 108.1 kB Used in GitHub's Storage 
+> 📦 136.0 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
+> 🏆 85 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -59,22 +59,22 @@ Open source projects 🚀✨
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   18 hrs 4 mins       ███████████████░░░░░░░░░░   61.30 % 
-YAML                     4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-CMake                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-TOML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Python                   18 hrs 4 mins       ███████████████░░░░░░░░░░   58.18 % 
+YAML                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Markdown                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+CMake                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🐱‍💻 Projects: 
-Modules                  16 hrs 47 mins      ██████████████░░░░░░░░░░░   56.94 % 
-scaffoldpy               5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-gh-changelog             2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-blog-content             1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-UniversalImager          1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Modules                  16 hrs 47 mins      ██████████████░░░░░░░░░░░   54.04 % 
+scaffoldpy               5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+gh-changelog             2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+blog-content             1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+portfolio2025            1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 
- Last Updated on 30/03/2025 12:03:41 UTC
+ Last Updated on 31/03/2025 12:04:17 UTC
 <!--END_SECTION:waka-->
 
 
