@@ -14,7 +14,9 @@ I'm Austin — a software & systems engineer in the Bay Area. I work across the 
 
 
 🔭 Currently building **[Boardo](https://boardo.art)** — an AI tool that turns a plain-English brief into print-ready designs
+
 🎮 Competitive Civ VI player nursing a dream of training an RL agent to play it
+
 ⚡ Ask me about real-time systems, Rust↔Python interop, or migrating a scientific codebase off legacy tooling
 
 | Category | Badges |
