@@ -6,7 +6,12 @@
 
 I'm Austin — a software & systems engineer in the Bay Area. I work across the whole stack, from real-time FPGA and Rust/C++ performance code up to React frontends.
 
-🌐 [**austinyu.me**](https://austinyu.me) &nbsp;•&nbsp; 🎨 [**Boardo**](https://boardo.art)
+[![Website](https://img.shields.io/badge/-austinyu.me-FF4500?&logo=aboutdotme&logoColor=white)](https://austinyu.me)
+[![Boardo](https://img.shields.io/badge/-boardo.art-FF4500?&logo=vercel&logoColor=white)](https://boardo.art)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinmiao-yu-619128174)
+[![Email](https://img.shields.io/badge/-Email-EA4335?&logo=gmail&logoColor=white)](mailto:yuxm.austin1023@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white)](https://github.com/austinyu)
+
 
 🔭 Currently building **[Boardo](https://boardo.art)** — an AI tool that turns a plain-English brief into print-ready designs
 🎮 Competitive Civ VI player nursing a dream of training an RL agent to play it
